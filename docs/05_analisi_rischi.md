@@ -31,7 +31,7 @@ Ogni rischio è valutato secondo:
 | Impresa edile inadempiente o fallita | M | A | **Alta** | Richiedere fideiussione; pagamenti a SAL documentati; non anticipare oltre 30% |
 | Modifica normativa sugli incentivi (Superbonus) | M | A | **Alta** | Avviare lavori entro l'anno; verificare normativa al momento dell'inizio; non dipendere 100% dagli incentivi |
 | Diniego cessione del credito dalla banca | M | M | Media | Pianificare senza cessione; cedolare come bonus, non come condizione sine qua non |
-| Problemi strutturali imprevisti (fondamenta, amianto, ecc.) | M | A | **Alta** | Perizia strutturale preventiva; sondaggi/carotaggi; riserva economica dedicata |
+| Problemi strutturali imprevisti (fondamenta, amianto, ecc.) | M | A | **Alta** | Perizia strutturale preventiva; sondaggi/carotaggi; riserva economica dedicata. **Nota: l'immobile è del 1930 — elevata probabilità di presenza di amianto e/o struttura in muratura portante; perizia strutturale obbligatoria prima del rogito** |
 | Diniego CILA/SCIA dal Comune | B | A | Media | Verifica preventiva con tecnico esperto in edilizia locale; contatto con SUE |
 | Mancato raggiungimento 2 classi energetiche per Superbonus | M | A | **Alta** | APE simulata ante operam prima di iniziare; tecnico energetico qualificato |
 

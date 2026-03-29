@@ -29,24 +29,29 @@ In alcuni Comuni è necessario presentare una pratica edilizia (SCIA o Permesso 
 
 ## 3. Scenari di Frazionamento
 
-### Scenario A — Bifamiliare (2 unità)
-- Adatto a edifici di medie dimensioni (150–250 m²).
-- Ingresso indipendente per ciascuna unità (piano terra + primo piano o lato A + lato B).
-- Costo di frazionamento relativamente contenuto.
-- Strategia: vendere un'unità per recuperare il capitale, affittare l'altra.
+> **Nota sull'immobile reale**: la villetta ha una superficie commerciale di **293 m²** su **4 piani fuori terra**, una corte privata di **115 m²** ed è **già strutturata come bifamiliare** (2 unità abitative distinte con ingressi separabili). Questo semplifica il percorso burocratico: il frazionamento fisico è in parte già esistente e va solo formalizzato e completato.
 
-### Scenario B — 3 Unità
-- Ideale per edifici di 200–350 m².
-- Una unità grande al piano terra (famiglie), due unità più piccole ai piani superiori (giovani coppie o locazione breve).
-- Massimizza il valore di mercato totale.
+### Scenario A — Bifamiliare (2 unità) ✅ Scenario di partenza già presente
+- Le 2 unità esistenti corrispondono a ~70–80 m² (Unità 1: cucina+2 camere+soffitta) e ~200–210 m² (Unità 2: soggiorno+cucina+6 camere+3 locali soffitta).
+- Ingresso indipendente per ciascuna unità (già impostato dalla struttura esistente).
+- Costo di frazionamento relativamente contenuto (adeguamento impianti + DOCFA).
+- Strategia: vendere l'unità più grande per recuperare il capitale, affittare o abitare la più piccola.
 
-### Scenario C — 4 Unità (mini-appartamenti / monolocali/bilocali)
-- Adatto a edifici grandi (> 300 m²).
+### Scenario B — 3 Unità ⭐ Scenario consigliato
+- Con 293 m² (+ 115 m² corte) si ricavano agevolmente 3 unità indipendenti.
+- Suggerimento distributivo (da verificare con tecnico):
+  - **Unità A** (~80–90 m²): ristrutturazione dell'attuale Unità 1 (piani 1–2–3 lato est)
+  - **Unità B** (~110–120 m²): piano terra + primo piano lato ovest (soggiorno, cucina, 2 camere)
+  - **Unità C** (~80–90 m²): piano secondo + terzo lato ovest (3 camere + locali soffitta)
+- Massimizza il valore di mercato totale; ogni unità ottiene un proprio giardino/cortile.
+
+### Scenario C — 4 Unità
+- Adatto a edifici grandi (> 300 m²); con 293 m² è al limite ma fattibile con tagli compatti (~70 m² each).
 - Strategia orientata al reddito: locazione a breve o lungo periodo.
 - Richiede investimento in arredi e attrezzature se indirizzato al mercato Airbnb.
-- Maggiore complessità urbanistica e catastale.
+- Maggiore complessità urbanistica e catastale; verificare minimum size abitazione previsto dal Regolamento Edilizio Comunale.
 
-> Scegliere lo scenario in base alla metratura effettiva dell'immobile, alla normativa urbanistica locale e al mercato target (famiglie, giovani, turismo).
+> Scegliere lo scenario in base alla metratura effettiva dell'immobile post-perizia, alla normativa urbanistica locale e al mercato target (famiglie, giovani, turismo).
 
 ---
 
@@ -77,15 +82,18 @@ Il mercato immobiliare di Quinto (VR) e della Valpantena è caratterizzato da:
 - Prossimità a Verona città (15–20 min) con prezzi più contenuti
 - Crescente interesse per il lavoro da remoto (case con spazio esterno)
 
-**Stima impatto del frazionamento** (da aggiornare con valori reali):
+**Stima impatto del frazionamento** (base: prezzo acquisto €145.000; valori post-ristrutturazione da aggiornare con quotazioni OMI locali):
 
-| Configurazione | Valore stimato totale | Incremento vs singolo corpo |
+| Configurazione | Valore stimato totale | Incremento vs acquisto |
 |---|---|---|
-| Singolo immobile non ristrutturato | — | base |
-| Singolo immobile ristrutturato | — | +20–30% |
-| 2 unità ristrutturate | — | +30–45% |
-| 3 unità ristrutturate | — | +40–55% |
-| 4 unità ristrutturate | — | +45–60% |
+| Singolo immobile non ristrutturato (attuale) | **~145.000 €** | base |
+| Singolo immobile ristrutturato | _(da ricercare OMI)_ | atteso +20–30% |
+| 2 unità ristrutturate (Scenario A) | _(da ricercare OMI)_ | atteso +30–45% |
+| 3 unità ristrutturate (Scenario B) | _(da ricercare OMI)_ | atteso +40–55% |
+| 4 unità ristrutturate (Scenario C) | _(da ricercare OMI)_ | atteso +45–60% |
+
+> Consultare le quotazioni OMI (Osservatorio del Mercato Immobiliare) per la zona Quinto - Poiano / Marzana di Verona:
+> https://www.agenziaentrate.gov.it/portale/web/guest/schede/fabbricatiterreni/omi
 
 ---
 

@@ -20,6 +20,8 @@
 
 Il Superbonus funziona solo se è presente almeno un **intervento trainante** che migliora di almeno 2 classi energetiche l'immobile (attestato da APE ante e post operam).
 
+> **Caso specifico — Via Valpantena 135**: la classe energetica attuale è **G (245,58 kWh/m²·anno)**. Essendo la classe peggiore, il margine di miglioramento è massimo: anche un intervento moderato può portare l'immobile a classe E o superiore, soddisfacendo facilmente il requisito delle 2 classi minime per il Superbonus.
+
 ### Interventi Trainanti (obbligatori per accedere al Superbonus)
 - **Cappotto termico** sull'involucro opaco ≥ 25% della superficie disperdente lorda
 - **Sostituzione impianto di climatizzazione invernale** con pompa di calore, caldaia a condensazione A+, sistemi ibridi o teleriscaldamento

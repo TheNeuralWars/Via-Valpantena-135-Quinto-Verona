@@ -6,14 +6,15 @@
 
 | Voce | Importo stimato | Note |
 |---|---|---|
-| Prezzo di acquisto immobile | _(da inserire)_ | Da negoziare |
-| Imposta di registro (Prima Casa 2%) | _(da calcolare)_ | Su valore catastale rivalutato |
+| Prezzo di acquisto immobile | **145.000 €** | Prezzo richiesto (Idealista); da negoziare |
+| Prezzo al m² | **495 €/m²** | Su 293 m² commerciali |
+| Imposta di registro (Prima Casa 2%) | _(da calcolare su valore catastale)_ | Su valore catastale rivalutato; minimo €1.000 |
 | Imposte ipotecaria + catastale | €100 | Fisse Prima Casa |
 | Onorario notaio | €1.500–€3.000 | Variabile con valore atto |
-| Provvigione agenzia immobiliare | 2–3% prezzo | Se acquisto tramite agenzia |
+| Provvigione agenzia immobiliare | 2–3% del prezzo | Se acquisto tramite agenzia (~€2.900–€4.350) |
 | Perizia banca (per mutuo) | €200–€400 | — |
 | Istruttoria mutuo | €500–€1.500 | — |
-| **Totale costi accessori acquisto** | **~3–5% del prezzo** | — |
+| **Totale costi accessori acquisto** | **~€5.800–€9.500 (~4–6% del prezzo)** | — |
 
 ### 1.2 Costi di Ristrutturazione (lordi, prima degli incentivi)
 
@@ -93,25 +94,25 @@ Parametri tipici per la zona Verona/hinterland:
 
 ## 4. Modello Finanziario — Template
 
-### Input (da compilare)
+### Input (da completare con preventivi reali)
 
 ```
 ACQUISTO
-  Prezzo acquisto:                    €________
-  Costi accessori acquisto (4%):      €________
-  Acconto personale:                  €________
-  Importo mutuo:                      €________
-  Tasso mutuo:                        ________%
-  Durata mutuo:                       ________ anni
-  Rata mensile mutuo:                 €________
+  Prezzo acquisto:                    €145.000
+  Costi accessori acquisto (~4%):     €5.800  (stima minima)
+  Acconto personale (30%):            €43.500
+  Importo mutuo (70%):                €101.500
+  Tasso mutuo (fisso):                2,85%
+  Durata mutuo:                       30 anni
+  Rata mensile mutuo (indicativa):    €420
 
 RISTRUTTURAZIONE
-  Costo lordo lavori:                 €________
-  Detrazioni fiscali totali:          €________
-  Costo netto lavori:                 €________
+  Costo lordo lavori:                 €________ (da preventivo)
+  Detrazioni fiscali totali:          €________ (da calcolare)
+  Costo netto lavori:                 €________ (da calcolare)
   Durata lavori:                      ________ mesi
 
-TOTALE INVESTIMENTO NETTO:            €________
+TOTALE INVESTIMENTO NETTO:            €________ (145.000 + 5.800 + costo netto lavori)
 
 MONETIZZAZIONE
   Ricavo da vendita unità 1:          €________

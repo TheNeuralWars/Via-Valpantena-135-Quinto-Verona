@@ -1,5 +1,47 @@
 # Piano Business — Via Valpantena 135, Quinto (Verona)
 
+## Dati dell'Immobile (fonte: annuncio Idealista)
+
+| Campo | Valore |
+|---|---|
+| **Indirizzo** | Via Valpantena, 135 — Marzana (frazione di Verona), zona Quinto - Poiano |
+| **Tipologia** | Villetta bifamiliare indipendente |
+| **Prezzo richiesto** | **145.000 €** |
+| **Prezzo al m²** | 495 €/m² |
+| **Superficie commerciale** | **293 m²** |
+| **Locali** | 16 (su 4 piani fuori terra) |
+| **Bagni** | 2 |
+| **Corte/appezzamento privato** | 115 m² |
+| **Anno di costruzione** | 1930 |
+| **Stato** | Da ristrutturare |
+| **Riscaldamento** | Autonomo — Gas naturale |
+| **Classe energetica** | G — 245,58 kWh/m²·anno (Legge 90/2013) |
+| **Orientamento** | Est / Ovest |
+| **Dotazioni** | Giardino privato |
+| **Distanza dal centro di Verona** | ~20 minuti in auto |
+
+### Composizione delle unità esistenti
+
+| Unità | Piano terra | Piano 1° | Piano 2° | Piano 3° |
+|---|---|---|---|---|
+| **Unità 1** | Cucina, bagno, ripostiglio | Camera | Camera | Soffitta |
+| **Unità 2** | Ingresso, soggiorno, cucina, bagno | 3 camere | 3 camere | 3 locali soffitta |
+
+### Mutuo indicativo (simulazione Idealista — non vincolante)
+
+| Parametro | Valore |
+|---|---|
+| Prezzo immobile | 145.000 € |
+| Capitale iniziale (30%) | 43.500 € |
+| Importo mutuo (70%) | 101.500 € |
+| Tasso fisso | 2,85% |
+| Durata | 30 anni |
+| Rata mensile indicativa | **420 €/mese** |
+
+> I dati del mutuo sono indicativi e non vincolanti. Imposte e spese non incluse.
+
+---
+
 ## Obiettivo Strategico
 
 Acquisire l'immobile sito in **Via Valpantena 135, Quinto (VR)** sfruttando al massimo le agevolazioni fiscali disponibili, ristrutturarlo in modo intelligente tramite gli incentivi statali vigenti, frazionarlo in unità indipendenti e monetizzare il capitale attraverso la vendita e/o la locazione, massimizzando il rendimento e minimizzando i rischi.
@@ -31,20 +73,21 @@ La strategia ottimale prevede quattro passaggi sequenziali:
 
 ---
 
-## KPI Attesi (scenari indicativi — da aggiornare con dati reali)
+## KPI Attesi (scenari indicativi)
 
 | Indicatore | Scenario conservativo | Scenario base | Scenario ottimistico |
 |---|---|---|---|
-| Costo acquisto | — | — | — |
-| Costo ristrutturazione lordo | — | — | — |
-| Detrazioni/incentivi recuperati | — | — | — |
-| Costo netto totale | — | — | — |
-| Valore di mercato post-ristrutturazione | — | — | — |
-| Plusvalenza potenziale | — | — | — |
-| Rendimento lordo da affitto (annuo) | — | — | — |
-| Payback period | — | — | — |
+| Costo acquisto | 145.000 € | 145.000 € | 140.000 € |
+| Costi accessori acquisto (~4%) | ~5.800 € | ~5.800 € | ~5.600 € |
+| Costo ristrutturazione lordo | _(da preventivo)_ | _(da preventivo)_ | _(da preventivo)_ |
+| Detrazioni/incentivi recuperati | _(da calcolare)_ | _(da calcolare)_ | _(da calcolare)_ |
+| Costo netto totale | _(da calcolare)_ | _(da calcolare)_ | _(da calcolare)_ |
+| Valore di mercato post-ristrutturazione | _(da ricercare OMI)_ | _(da ricercare OMI)_ | _(da ricercare OMI)_ |
+| Plusvalenza potenziale | _(da calcolare)_ | _(da calcolare)_ | _(da calcolare)_ |
+| Rendimento lordo da affitto (annuo) | _(da ricercare)_ | _(da ricercare)_ | _(da ricercare)_ |
+| Payback period | _(da calcolare)_ | _(da calcolare)_ | _(da calcolare)_ |
 
-> I valori numerici saranno inseriti non appena disponibili la perizia dell'immobile, i preventivi dei lavori e le quotazioni di mercato locali aggiornate.
+> I valori di ristrutturazione, mercato e redditività saranno inseriti non appena disponibili la perizia dell'immobile, i preventivi dei lavori e le quotazioni di mercato locali aggiornate.
 
 ---
 

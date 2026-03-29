@@ -25,7 +25,9 @@ Quando si acquista un immobile in Italia, l'imposizione varia in base a:
 | Imposta ipotecaria | 50 € | **50 €** |
 | Imposta catastale | 50 € | **50 €** |
 
-> Esempio: immobile con valore catastale rivalutato di €120.000 → imposta di registro Prima Casa = €2.400 invece di €10.800 (**risparmio €8.400**).
+> Esempio generico: immobile con valore catastale rivalutato di €120.000 → imposta di registro Prima Casa = €2.400 invece di €10.800 (**risparmio €8.400**).
+> 
+> **Caso specifico — Via Valpantena 135**: prezzo di acquisto €145.000. Il valore catastale rivalutato (rendita catastale × 1,05 × 110 per Prima Casa) è da verificare in visura. A titolo indicativo, se la rendita catastale fosse ~€600, la base imponibile Prima Casa sarebbe ~€69.300 → imposta di registro ~€1.386 (minimo €1.000 applicato) invece di €6.237 ordinaria.
 
 ### Vantaggi fiscali — Acquisto da IMPRESA (con IVA)
 | Imposta | Aliquota ordinaria | Aliquota Prima Casa |
@@ -106,12 +108,18 @@ Chi acquista la **prima casa** con un mutuo ipotecario può detrarre:
 
 ## 8. Finanziamento: Struttura del Mutuo Ottimale
 
-| Parametro | Raccomandazione |
-|---|---|
-| LTV (Loan-to-Value) | 70–80% del valore periziato |
-| Durata | 20–25 anni (bilanciare rata e flessibilità) |
-| Tipo tasso | Tasso fisso per certezza del piano; tasso variabile cap come alternativa |
-| Imposta sostitutiva | 0,25% Prima Casa (vs 2% seconda casa) |
-| Utilizzo anticipo | Riserva 20–30% liquidità per lavori urgenti non coperti da incentivi |
+| Parametro | Raccomandazione | Dato reale (simulazione Idealista) |
+|---|---|---|
+| Prezzo acquisto | — | **145.000 €** |
+| LTV (Loan-to-Value) | 70–80% del valore periziato | **70%** → mutuo €101.500 |
+| Acconto personale | 20–30% del prezzo | **30%** → €43.500 |
+| Importo mutuo | — | **101.500 €** |
+| Durata | 20–25 anni (bilanciare rata e flessibilità) | **30 anni** (rata più bassa, maggiore flessibilità) |
+| Tipo tasso | Tasso fisso per certezza del piano; tasso variabile cap come alternativa | **Fisso 2,85%** |
+| Rata mensile indicativa | — | **~420 €/mese** |
+| Imposta sostitutiva | 0,25% Prima Casa (vs 2% seconda casa) | ~255 € (su €101.500) |
+| Utilizzo anticipo | Riserva 20–30% liquidità per lavori urgenti non coperti da incentivi | Accanto ai €43.500 di acconto, prevedere ulteriore riserva liquidità |
 
 > Considerare un **mutuo di ristrutturazione** che eroga quote progressive a SAL (Stato Avanzamento Lavori), migliorando la gestione del cash flow durante i lavori.
+> 
+> I dati di mutuo sopra riportati sono indicativi e basati sulla simulazione dell'annuncio Idealista (non vincolanti). Imposte e spese non incluse nel calcolo della rata.

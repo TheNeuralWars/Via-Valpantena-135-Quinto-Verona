@@ -14,6 +14,7 @@ Questo repository raccoglie tutta la documentazione strategica, tecnica e finanz
 | [`docs/03_frazionamento.md`](docs/03_frazionamento.md) | **Frazionamento** — scenari di divisione, aspetti urbanistici, strategie di monetizzazione |
 | [`docs/04_analisi_finanziaria.md`](docs/04_analisi_finanziaria.md) | **Analisi Finanziaria** — costi, ricavi, ROI, cash flow, KPI |
 | [`docs/05_analisi_rischi.md`](docs/05_analisi_rischi.md) | **Analisi dei Rischi** — matrice rischi, mitigazioni prioritarie |
+| [`docs/06_sopralluogo_video.md`](docs/06_sopralluogo_video.md) | **Sopralluogo Video** — video GoPro, schede di valutazione, criticità emerse, prossimi passi |
 
 ---
 
